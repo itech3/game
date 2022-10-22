@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #eee;
+}
+
+.container {
+    width: 80%;
+    margin: 10rem auto;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.game {
+    padding: 3rem;
+}
+
+.game h2 {
+    margin-bottom: 1rem;
+}
+
+button { 
+    padding:.3rem 1rem ;
+    border-radius: .5rem;
+}
+
+.game-content-buttons {
+    padding: 0 3rem 1rem;
+}
